@@ -1,0 +1,1 @@
+This is a program I have written via The Odin Project as my first project. It has demonstrated my ability to create HTML files and how to utilize its various elements such as headings, paragraphs, images, ordered/unordered lists and creating absolute/relative links within a file.
